@@ -1,5 +1,5 @@
 This repository contains a Java program to print hello world.
 
-javac helloworld.java
+javac HelloWorld.java
 
-java helloworld
+java HelloWorld
